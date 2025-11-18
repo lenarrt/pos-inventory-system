@@ -6,3 +6,4 @@
 2025-10-31 20:10:45.770 CET [20007] LOG:  database system is ready to accept connections
 2025-11-06 15:33:16.069 CET [36663] FATAL:  role "postgres" does not exist
 2025-11-06 15:33:42.446 CET [36665] FATAL:  role "postgres" does not exist
+2025-11-14 11:25:22.925 CET [71595] FATAL:  role "postgres" does not exist
